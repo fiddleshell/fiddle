@@ -1,0 +1,8 @@
+#Configuration File for Fiddle H000 [EXCLUDE INDEX 0]#
+Fiddle
+Hydrogen
+H
+0
+0
+0
+Erik P and Arnav T
